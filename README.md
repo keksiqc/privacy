@@ -8,6 +8,7 @@ A repository for personal privacy guides and configuration files.
   - [Guides](#guides)
     - [NextDNS](#nextdns)
     - [uBlock Origin](#ublock-origin)
+    - [Firefox](#firefox)
   - [Configuration Files](#configuration-files)
   - [Usage](#usage)
   - [Contributions](#contributions)
@@ -23,6 +24,10 @@ Guide for NextDNS setup and configuration.
 Guide for uBlock Origin setup and configuration.
 - [uBlock Origin Guide](guides/ublock/README.md)
 
+### Firefox
+Guide for Betterfox user.js file.
+- [Firefox Guide](guides/firefox/README.md)
+
 ## Configuration Files
 My personal settings for uBlock Origin.
 - [uBlock Origin Settings](configs/ublock.txt)
@@ -31,7 +36,8 @@ My personal settings for uBlock Origin.
 
 1. **NextDNS**: Follow the instructions in the [NextDNS guide](guides/nextdns/README.md).
 2. **uBlock Origin**: Follow the instructions in the [uBlock Origin guide](guides/ublock/README.md).
-3. **Configuration Files**: To use the uBlock Origin settings:
+3. **Firefox**: Follow the instructions in the [Firefox guide](guides/firefox/README.md).
+4. **Configuration Files**: To use the uBlock Origin settings:
    - Download the [uBlock settings file](configs/ublock.txt)
    - Import the file in uBlock Origin
 

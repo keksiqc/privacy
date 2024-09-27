@@ -4,3 +4,6 @@
 [submodule "guides/nextdns"]
 	path = guides/nextdns
 	url = https://github.com/yokoffing/NextDNS-Config.git
+[submodule "guides/firefox"]
+	path = guides/firefox
+	url = https://github.com/yokoffing/Betterfox.git
