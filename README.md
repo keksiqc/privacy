@@ -1,31 +1,42 @@
-# Privacy
-Repository for Personal Privacy Settings and Backup Files
+# Privacy Settings and Guides
+
+A repository for personal privacy guides and configuration files.
 
 ## Table of Contents
-- [Privacy](#privacy)
+- [Privacy Settings and Guides](#privacy-settings-and-guides)
   - [Table of Contents](#table-of-contents)
-  - [Contents](#contents)
+  - [Guides](#guides)
+    - [NextDNS](#nextdns)
+    - [uBlock Origin](#ublock-origin)
+  - [Configuration Files](#configuration-files)
   - [Usage](#usage)
-  - [Mentions](#mentions)
+  - [Acknowledgements](#acknowledgements)
 
-## Contents
-- [NextDNS](configs/nextdns)
-- [uBlock](configs/ublock)
-- [Backup Files](backups)
+## Guides
+
+### NextDNS
+Guide for NextDNS setup and configuration.
+- [NextDNS Guide](guides/nextdns/README.md)
+
+### uBlock Origin
+Guide for uBlock Origin setup and configuration.
+- [uBlock Origin Guide](guides/ublock/README.md)
+
+## Configuration Files
+My personal settings for uBlock Origin.
+- [uBlock Origin Settings](configs/ublock.txt)
 
 ## Usage
 
-1. **NextDNS**:
-   - Follow the guide at [configs/nextdns](configs/nextdns/README.md)
-2. **uBlock Origin**:
-   - Follow the guide at [configs/ublock](configs/ublock/README.md)
-3. **Backup Files**:
-   - If you want you can use my [uBlock settings](backups/ublock.txt)
-   - You only need to download the file and import it in uBlock Origin
+1. **NextDNS**: Follow the instructions in the [NextDNS guide](guides/nextdns/README.md).
+2. **uBlock Origin**: Follow the instructions in the [uBlock Origin guide](guides/ublock/README.md).
+3. **Configuration Files**: To use the uBlock Origin settings:
+   - Download the [uBlock settings file](configs/ublock.txt)
+   - Import the file in uBlock Origin
 
-## Mentions
+## Acknowledgements
 
-- [yokoffing](https://github.com/yokoffing) for his guides
-- [NextDNS](https://nextdns.io/)
-- [uBlock](https://github.com/gorhill/uBlock)
+- [yokoffing](https://github.com/yokoffing) for their helpful guides
+- [NextDNS](https://nextdns.io/) for their DNS service
+- [uBlock Origin](https://github.com/gorhill/uBlock) for their content blocker
 
