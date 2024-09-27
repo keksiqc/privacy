@@ -1,0 +1,6 @@
+[submodule "filterlists"]
+	path = filterlists
+	url = https://github.com/yokoffing/filterlists.git
+[submodule "NextDNS-Config"]
+	path = NextDNS-Config
+	url = https://github.com/yokoffing/NextDNS-Config.git
