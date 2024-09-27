@@ -10,6 +10,7 @@ A repository for personal privacy guides and configuration files.
     - [uBlock Origin](#ublock-origin)
   - [Configuration Files](#configuration-files)
   - [Usage](#usage)
+  - [Contributions](#contributions)
   - [Acknowledgements](#acknowledgements)
 
 ## Guides
@@ -33,6 +34,16 @@ My personal settings for uBlock Origin.
 3. **Configuration Files**: To use the uBlock Origin settings:
    - Download the [uBlock settings file](configs/ublock.txt)
    - Import the file in uBlock Origin
+
+## Contributions
+Contributions to this project are welcome! Here's how you can help:
+
+1. Fork the repository
+2. Create a new branch for your changes
+3. Make your changes and commit them with a clear description
+4. Open a pull request with a detailed explanation of your changes
+
+Please ensure your contributions align with the project's goal of enhancing privacy and security.
 
 ## Acknowledgements
 
