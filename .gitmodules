@@ -1,6 +1,6 @@
-[submodule "configs/ublock"]
-	path = configs/ublock
+[submodule "guides/ublock"]
+	path = guides/ublock
 	url = https://github.com/yokoffing/filterlists.git
-[submodule "configs/nextdns"]
-	path = configs/nextdns
+[submodule "guides/nextdns"]
+	path = guides/nextdns
 	url = https://github.com/yokoffing/NextDNS-Config.git
