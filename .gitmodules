@@ -7,3 +7,6 @@
 [submodule "guides/firefox"]
 	path = guides/firefox
 	url = https://github.com/yokoffing/Betterfox.git
+[submodule "guides/controld"]
+	path = guides/controld
+	url = https://github.com/yokoffing/Control-D-Config.git
