@@ -6,6 +6,7 @@ A repository for personal privacy guides and configuration files.
 - [Privacy Settings and Guides](#privacy-settings-and-guides)
   - [Table of Contents](#table-of-contents)
   - [Guides](#guides)
+    - [Control D](#control-d)
     - [NextDNS](#nextdns)
     - [uBlock Origin](#ublock-origin)
     - [Firefox](#firefox)
@@ -15,6 +16,10 @@ A repository for personal privacy guides and configuration files.
   - [Acknowledgements](#acknowledgements)
 
 ## Guides
+
+### Control D
+Guide for Control D setup and configuration.
+- [Control D Guide](guides/controld/README.md)
 
 ### NextDNS
 Guide for NextDNS setup and configuration.
